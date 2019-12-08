@@ -57,6 +57,7 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 - https://developer.nvidia.com/tensorrt
 - https://github.com/NervanaSystems/distiller
 - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/quantize
+- https://github.com/yeyun11/pytorch-network-slimming
 
 ### Network models for mobile devices
 - [Mobilenet](https://arxiv.org/pdf/1704.04861.pdf)
